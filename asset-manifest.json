@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://enid-colic.github.io/csb-zho2c/static/js/main.6d7b6d22.chunk.js",
+    "main.js.map": "https://enid-colic.github.io/csb-zho2c/static/js/main.6d7b6d22.chunk.js.map",
+    "runtime-main.js": "https://enid-colic.github.io/csb-zho2c/static/js/runtime-main.aab42b2f.js",
+    "runtime-main.js.map": "https://enid-colic.github.io/csb-zho2c/static/js/runtime-main.aab42b2f.js.map",
+    "static/js/2.ba2660bc.chunk.js": "https://enid-colic.github.io/csb-zho2c/static/js/2.ba2660bc.chunk.js",
+    "static/js/2.ba2660bc.chunk.js.map": "https://enid-colic.github.io/csb-zho2c/static/js/2.ba2660bc.chunk.js.map",
+    "index.html": "https://enid-colic.github.io/csb-zho2c/index.html",
+    "precache-manifest.20dc0ff4fef65075a23b4192012ce865.js": "https://enid-colic.github.io/csb-zho2c/precache-manifest.20dc0ff4fef65075a23b4192012ce865.js",
+    "service-worker.js": "https://enid-colic.github.io/csb-zho2c/service-worker.js",
+    "static/js/2.ba2660bc.chunk.js.LICENSE.txt": "https://enid-colic.github.io/csb-zho2c/static/js/2.ba2660bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aab42b2f.js",
+    "static/js/2.ba2660bc.chunk.js",
+    "static/js/main.6d7b6d22.chunk.js"
+  ]
+}
